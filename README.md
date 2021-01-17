@@ -1,16 +1,15 @@
-### Hi there 👋
+### I like 😊
+* Crafting solutions for everyday life problems
+* Helping organisations to be more competitive by reducing their time to market
+* Working with talented and passionated developers on high impact projects
+* Share what i know with others
 
-<!--
-**juniorngangeli/juniorngangeli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I use 
+* JavaScript | React | Redux | React Native | Java | PHP | Vue.js | Laravel
+* MySQL | MongoDB | Neo4j | SQLite
+* Kafka | Docker
+* Project management (Scrum)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Talk to me here
+* juniorngangeli3@gmail.com
+* +243821234066
