@@ -13,4 +13,4 @@
 ### Talk to me here
 * juniorngangeli3@gmail.com
 * +243821234066
-* [LinkedIn profile] (https://www.linkedin.com/in/junior-ngangeli/)
+* [LinkedIn profile](https://www.linkedin.com/in/junior-ngangeli/)
