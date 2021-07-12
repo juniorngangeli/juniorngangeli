@@ -14,3 +14,7 @@
 * juniorngangeli3@gmail.com
 * +243821234066
 * [LinkedIn profile](https://www.linkedin.com/in/junior-ngangeli/)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juniorngangeli&show_icons=true&theme=radical)
+
+
