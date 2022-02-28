@@ -5,9 +5,10 @@
 * Share what i know with others
 
 ### I use 
-* JavaScript | React | Redux | React Native | Java | PHP | Vue.js | Laravel
+* JavaScript | PHP | Next.js (React) | React Native | Nuxt.js (Vue) | Laravel
 * MySQL | MongoDB | Neo4j | SQLite
-* Kafka | Docker
+* Kafka | Docker | Redis
+* Wordpress (Theme and plugin developement) | Wix (Velo) | Squarespace | Webflow
 * Project management (Scrum)
 
 ### Talk to me here
