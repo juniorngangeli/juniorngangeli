@@ -7,7 +7,8 @@
 ### I use 
 * JavaScript | PHP | Next.js (React) | React Native | Nuxt.js (Vue) | Laravel
 * MySQL | MongoDB | Neo4j | SQLite
-* Kafka | Docker | Redis
+* Kafka | Redis
+* Docker | Kubernetes
 * Wordpress (Theme and plugin developement) | Wix (Velo) | Squarespace | Webflow
 * Project management (Scrum)
 
