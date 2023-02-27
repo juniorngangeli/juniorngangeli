@@ -17,6 +17,8 @@
 * +243821234066
 * [LinkedIn profile](https://www.linkedin.com/in/junior-ngangeli/)
 
+### Most of my code projects are on Bitbucket 😞
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juniorngangeli&show_icons=true&theme=radical)
 
 
