@@ -5,7 +5,8 @@
 * Share what i know with others
 
 ### I use 
-* JavaScript | PHP | Next.js (React) | React Native | Nuxt.js (Vue) | Laravel
+* TypeScript | PHP | Next.js (React) | React Native | Nuxt.js (Vue) | Laravel
+* Nest | Laravel | Express.js
 * MySQL | MongoDB | Neo4j | SQLite
 * Kafka | Redis
 * Docker | Kubernetes
