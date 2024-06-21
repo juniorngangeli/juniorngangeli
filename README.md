@@ -20,6 +20,5 @@
 
 ### Most of my code projects are on Bitbucket 😞
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juniorngangeli&show_icons=true&theme=radical)
-
+<img src="https://myreadme.vercel.app/api/embed/juniorngangeli?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="Junior NGANGELI's stats" />
 
