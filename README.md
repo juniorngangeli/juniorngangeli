@@ -18,7 +18,3 @@
 * +243821234066
 * [LinkedIn profile](https://www.linkedin.com/in/junior-ngangeli/)
 
-### Most of my code projects are on Bitbucket 😞
-
-<img src="https://myreadme.vercel.app/api/embed/juniorngangeli?panels=userstatistics,commitgraph" alt="Junior NGANGELI's stats" />
-
